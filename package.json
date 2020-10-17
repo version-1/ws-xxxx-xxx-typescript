@@ -1,0 +1,11 @@
+{
+  "name": "ws-xxxx-xxx-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:version-1/ws-xxxx-xxx-typescript.git",
+  "author": "version-1 <j.onodera26@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
