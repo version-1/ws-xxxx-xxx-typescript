@@ -5,6 +5,10 @@
   "repository": "git@github.com:version-1/ws-xxxx-xxx-typescript.git",
   "author": "version-1 <j.onodera26@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
   "devDependencies": {
     "typescript": "^4.0.3"
   }
